@@ -6,9 +6,3 @@ int main()
   printf("");
 
 }
-=======
-
-int main()
-{
-	printf("test");
-}
